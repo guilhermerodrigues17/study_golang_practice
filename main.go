@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello")
-	fmt.Println(ReturnNegativeRun())
+	// fmt.Println("Hello")
+	// fmt.Println(ReturnNegativeRun())
+	fmt.Println(SummationRun())
 }
