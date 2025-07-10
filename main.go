@@ -7,5 +7,6 @@ func main() {
 	// fmt.Println(ReturnNegativeRun())
 	// fmt.Println(SummationRun())
 	// fmt.Println(SumOfPositiveRun())
-	fmt.Println(CountPositiveSumNegativeRun())
+	// fmt.Println(CountPositiveSumNegativeRun())
+	fmt.Println(StringToNumberRun())
 }
