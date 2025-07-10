@@ -12,5 +12,6 @@ func main() {
 	// fmt.Println(NumberToStringRun())
 	// fmt.Println(StringRepeatRun())
 	// fmt.Println(InvertValuesRun())
-	fmt.Println(OddOrEvenRun())
+	// fmt.Println(OddOrEvenRun())
+	fmt.Println(CatAndDogYearsRun())
 }
