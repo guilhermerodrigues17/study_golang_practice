@@ -16,5 +16,6 @@ func main() {
 	// fmt.Println(CatAndDogYearsRun())
 	// fmt.Println(RockPaperScissorsRun())
 	// fmt.Println(WellOfIdeasRun())
-	fmt.Println(TotalAmountOfPointsRun())
+	// fmt.Println(TotalAmountOfPointsRun())
+	fmt.Println(PartsListRun())
 }
