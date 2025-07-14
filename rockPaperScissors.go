@@ -2,7 +2,7 @@ package main
 
 //Codewars -> https://www.codewars.com/kata/5672a98bdbdd995fad00000f
 
-func rockPaperScissorsRun() string {
+func RockPaperScissorsRun() string {
 	return rockPaperScissors("rock", "scissors")
 }
 

@@ -14,6 +14,7 @@ func main() {
 	// fmt.Println(InvertValuesRun())
 	// fmt.Println(OddOrEvenRun())
 	// fmt.Println(CatAndDogYearsRun())
-	// fmt.Println(rockPaperScissorsRun())
-	fmt.Println(wellOfIdeasRun())
+	// fmt.Println(RockPaperScissorsRun())
+	// fmt.Println(WellOfIdeasRun())
+	fmt.Println(TotalAmountOfPointsRun())
 }

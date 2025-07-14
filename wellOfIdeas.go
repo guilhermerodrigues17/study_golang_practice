@@ -2,7 +2,7 @@ package main
 
 //Codewars -> https://www.codewars.com/kata/57f222ce69e09c3630000212
 
-func wellOfIdeasRun() string {
+func WellOfIdeasRun() string {
 
 	return wellOfIdeas([]string{"bad", "bad", "bad", "bad", "good", "bad", "good", "good"})
 }
